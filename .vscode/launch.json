@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "args": [
+                "--csv=test.csv",
+                "C:\\Users\\SCYM\\Documents\\my-code\\work-code\\sfaf-reader\\sfaf\\python\\my-sfaf.sfaf",
+            ]
+        }
+    ]
+}
